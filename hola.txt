@@ -1,0 +1,3 @@
+git clone https://github.com/CrisGonzaVal/RepoData010V.git
+npm init -y
+npm install json-server@0.17.4
