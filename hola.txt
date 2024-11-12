@@ -1,3 +1,8 @@
 git clone https://github.com/CrisGonzaVal/RepoData010V.git
 npm init -y
 npm install json-server@0.17.4
+
+
+-----------------------------------
+ionic capacitor sync android
+ionic capacitor copy android
