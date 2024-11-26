@@ -56,6 +56,22 @@
       "isactive": true
     }
   ],
+  "administrador": [
+    {
+      "id": "3f54",
+      "rut": "19182972-7",
+      "username": "Cristian Gonzalez Valenzuela",
+      "email": "crise.gonzalez@duocuc.cl",
+      "password": "123456789"
+    },
+    {
+      "id": "3zf4",
+      "rut": "12345678-7",
+      "username": "Felipe Carrillo",
+      "email": "admin",
+      "password": "admin123456"
+    }
+  ],
   "Actividades": [
     {
       "nombretaller": "Taller de Desarrollo Web",
@@ -213,7 +229,6 @@
     }
   ],
   "inscripciones": [
-  
     {
       "id": "199e19182972-7",
       "idTaller": "199e",
