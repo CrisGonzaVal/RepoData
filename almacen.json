@@ -74,7 +74,7 @@
       "ubicacion": "Aula 204",
       "isactive": true,
       "id": "26b7",
-      "cupos": 29,
+      "cupos": 1,
       "descripcion": "Introducción a Python, ideal para principiantes que desean aprender a programar."
     },
     {
@@ -84,7 +84,7 @@
       "ubicacion": "Laboratorio de Ingeniería",
       "isactive": true,
       "id": "199e",
-      "cupos": 29,
+      "cupos": 0,
       "descripcion": "Descubre los fundamentos de la inteligencia artificial y cómo aplicarla en proyectos reales."
     },
     {
@@ -94,7 +94,7 @@
       "ubicacion": "Auditorio Central",
       "isactive": true,
       "id": "39c6",
-      "cupos": 29,
+      "cupos": 25,
       "descripcion": "Explora el impacto de la tecnología blockchain en la economía y la seguridad digital."
     },
     {
@@ -146,7 +146,7 @@
       "ubicacion": "Sede Alameda",
       "isactive": true,
       "id": "2a40",
-      "cupos": 30,
+      "cupos": 29,
       "descripcion": "Participa en sesiones de networking y conferencias sobre emprendimiento tecnológico."
     },
     {
@@ -168,7 +168,7 @@
       "ubicacion": "Auditorio Principal",
       "isactive": true,
       "id": "a2c0",
-      "cupos": 30,
+      "cupos": 29,
       "descripcion": "Descubre los últimos avances en inteligencia artificial y su impacto en la sociedad."
     },
     {
@@ -213,58 +213,38 @@
     }
   ],
   "inscripciones": [
+  
     {
-      "id": "199e",
+      "id": "199e19182972-7",
+      "idTaller": "199e",
       "nombre": "Curso Intensivo de IA",
       "fecha": "2023-10-07",
+      "tipo": "actividad",
+      "rut": "19182972-7",
+      "email": "crise.gonzalez@duocuc.cl",
+      "asistido": true,
+      "comentario": ""
+    },
+    {
+      "id": "a2c019182972-7",
+      "idTaller": "a2c0",
+      "nombre": "Seminario de Inteligencia Artificial",
+      "fecha": "2023-10-10",
+      "tipo": "seminario",
       "rut": "19182972-7",
       "email": "crise.gonzalez@duocuc.cl",
       "asistido": false,
       "comentario": ""
     },
     {
-      "id": "26b7",
-      "nombre": "Taller de Python",
-      "fecha": "2023-10-06",
+      "id": "2a4019182972-7",
+      "idTaller": "2a40",
+      "nombre": "Evento de Emprendimiento TI",
+      "fecha": "2023-11-28",
+      "tipo": "evento",
       "rut": "19182972-7",
       "email": "crise.gonzalez@duocuc.cl",
-      "asistido": false,
-      "comentario": ""
-    },
-    {
-      "id": "199e",
-      "nombre": "Curso Intensivo de IA",
-      "fecha": "2023-10-07",
-      "rut": "19182972-7",
-      "email": "crise.gonzalez@duocuc.cl",
-      "asistido": false,
-      "comentario": ""
-    },
-    {
-      "id": "39c6",
-      "nombre": "Conferencia sobre Blockchain",
-      "fecha": "2023-10-08",
-      "rut": "19182972-7",
-      "email": "crise.gonzalez@duocuc.cl",
-      "asistido": false,
-      "comentario": ""
-    },
-    {
-      "id": "6aaa",
-      "nombre": "Concierto de Música Clásica",
-      "fecha": "2023-10-15",
-      "rut": "19182972-7",
-      "email": "crise.gonzalez@duocuc.cl",
-      "asistido": false,
-      "comentario": ""
-    },
-    {
-      "id": "1708",
-      "nombre": "Expo Tecnología 2024",
-      "fecha": "2023-11-20",
-      "rut": "19182972-7",
-      "email": "crise.gonzalez@duocuc.cl",
-      "asistido": false,
+      "asistido": true,
       "comentario": ""
     }
   ]
